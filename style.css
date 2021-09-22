@@ -115,7 +115,7 @@ body {
     -o-border-radius: 15px;
   }
   .card-img {
-    width: 320px;
+    width: 340px;
     height: 280px;
    background-image: url(images/image-header-mobile.jpg);
   }
